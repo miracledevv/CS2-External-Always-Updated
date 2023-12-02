@@ -10,8 +10,12 @@ discord server - For Support and updates!
 Undetected CS2 Software
 
 Open Source This application is open source and for everyone to learn from
+
 Fully External
-kernel We do not use any user level WinAPIs in order to get information from the CS2 process
+
+We do not use any user level WinAPIs in order to get information from the CS2 process
+
+
 Read and Write features use accordingly.
 
 If you're having issues loading driver etc,join discord.
