@@ -9,7 +9,6 @@ discord server - For Support and updates!
 
 Undetected CS2 Software
 
-Expectional The name of this project
 Open Source This application is open source and for everyone to learn from
 Fully External
 kernel We do not use any user level WinAPIs in order to get information from the CS2 process
