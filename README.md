@@ -1,4 +1,4 @@
-# CS2-External---Always-Updated
+# CS2-External-Always-Updated
 
 Discord - https://discord.gg/b2Wr3wCU9U
 
