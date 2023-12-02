@@ -1,0 +1,3 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  main.cpp
+LINK : fatal error LNK1104: cannot open file 'G:\free\free\cs2-external-source-kernel-main\cs2_usermode\x64\Release\cs_usermode.exe'
