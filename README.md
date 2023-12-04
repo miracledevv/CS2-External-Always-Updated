@@ -1,5 +1,7 @@
 # CS2-External-Always-Updated
 
+I will keep it updated with the constant cs2 updates!
+
 Discord - https://discord.gg/b2Wr3wCU9U
 
 credits:
